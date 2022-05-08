@@ -1,8 +1,14 @@
 ## 1. Áttekintés
-
+A projekt célja, hogy egy működőképes beléptető rendszer valósuljon meg. A projekt funkcióját tekintve képes a használóját beléptetni az adott ajtón, a megfelelő NFC
+kóddal rendelkező tárgyat használva és képes belépni az adott helységbe. Megkönnyíti az azonosítást és csak azok léphetnek be akiknek hatáskörük engedi, illetéktelen
+személyek képtelen belépni. A NFC tárgy beolvasása után a belépéshez tartozik egy időkorlát, illetve képes a tulajdonos megszerkeszteni a kódot, ha a kód
+megszerkesztése mellett dönt utána indul az időkorlát.
 
 ## 2. Jelenlegi helyzet
-
+A megrendelő egy olyan programot szeretne, ami segíti őt a helységbe való belépésben és azonosításban. Ezt egy Arduino projekt segítségével képzeli el, hiszen ez egy
+olcsón létrehozható és mindemellett egy hasznos projekt . A bemeneti adatokat egy NFC olvasó segítségével kapjuk meg, mivel az könnyen olvasható/módosítható. Fontos
+számára, hogy a  beléptető rendszer teljesen jól és pontosan működjön . Emellett a megrendelő igényli a menüben történő beállításokat, módosítások könnyed és egyszerű
+kezelését, ezeket a feltételeket nyugodt szívvel tudjuk biztosítani. 
 
 ## 3. Követelménylista
         3.1 Figyelő állapotban az érzékelő megfelelően jelezzen,hogy állnak-e előtte,vagy sem.
