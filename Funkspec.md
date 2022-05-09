@@ -19,7 +19,7 @@ kezelését, ezeket a feltételeket nyugodt szívvel tudjuk biztosítani.
 
 ## 4. Jelenlegi üzleti folyamatok modellje
 
-![Jelenlegi üzleti folyamatok modellje](../img/model.png)
+![Jelenlegi üzleti folyamatok modellje](../robotika/img/model.png)
 
 ## 5. Igényelt üzleti folyamatok modellje
     5.1 érzékelve van valaki az ajtó előtt
