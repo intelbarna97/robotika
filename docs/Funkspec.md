@@ -47,5 +47,17 @@ kezelését, ezeket a feltételeket nyugodt szívvel tudjuk biztosítani.
 ## 7. Forgatókönyv
 
 
+## 8. Projekt képek
+Robotika projekt breadboard:
 
-## 8. Fogalomszótár
+![Robotika_projekt_breadboard](../docs/img/Robotika_projekt_breadboard.png)
+
+Robotika projekt PCB:
+
+![Robotika_projekt_breadboard](../docs/img/Robotika_projekt_PCB.png)
+
+Robotika projekt séma:
+
+![Robotika_projekt_breadboard](../docs/img/Robotika_projekt_schematic.png)
+
+## 9. Fogalomszótár
